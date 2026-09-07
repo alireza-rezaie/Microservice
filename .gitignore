@@ -1,0 +1,32 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Visual Studio caches
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio indexes and caches
+FileContentIndex/
+DesignTimeBuild/
+ProjectEvaluation/
+
+# Database / cache files
+*.db
+*.db-shm
+*.db-wal
+*.vsidx
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET generated files
+wwwroot/lib/

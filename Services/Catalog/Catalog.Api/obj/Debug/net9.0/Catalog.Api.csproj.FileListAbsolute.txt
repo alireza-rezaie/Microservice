@@ -32,3 +32,10 @@ C:\Users\Alireza Rezaei\Desktop\Microservice\Services\Catalog\Catalog.Api\obj\De
 C:\Users\Alireza Rezaei\Desktop\Microservice\Services\Catalog\Catalog.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Alireza Rezaei\Desktop\Microservice\Services\Catalog\Catalog.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Alireza Rezaei\Desktop\Microservice\Services\Catalog\Catalog.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Alireza Rezaei\Desktop\Microservice\Services\Catalog\Catalog.Api\bin\Debug\net9.0\DnsClient.dll
+C:\Users\Alireza Rezaei\Desktop\Microservice\Services\Catalog\Catalog.Api\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\Alireza Rezaei\Desktop\Microservice\Services\Catalog\Catalog.Api\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\Alireza Rezaei\Desktop\Microservice\Services\Catalog\Catalog.Api\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\Alireza Rezaei\Desktop\Microservice\Services\Catalog\Catalog.Api\bin\Debug\net9.0\Snappier.dll
+C:\Users\Alireza Rezaei\Desktop\Microservice\Services\Catalog\Catalog.Api\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\Alireza Rezaei\Desktop\Microservice\Services\Catalog\Catalog.Api\obj\Debug\net9.0\Catalog.Api.sourcelink.json
